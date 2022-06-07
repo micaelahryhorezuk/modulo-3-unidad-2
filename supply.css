@@ -1,0 +1,119 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+header {
+    background-color: white;
+    padding: 0;
+}
+
+header h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: 100;
+    font-style: italic;
+    display: inline-block;
+    position: relative;
+    bottom: 35px;
+    margin-left: 10px;
+}
+
+nav {
+    background-color: #8c2eca;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    flex-grow: 1;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 3px 6px;
+    display: block;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+footer p {
+    background-color: #8c2eca;
+    clear: both;
+    color: black;
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 20px;
+    font-size: larger;
+}
+
+nav ul li a.activo {
+    background-color: #8c2eca;
+}
+
+.holder {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #8c2eca;
+    font-weight: 400;
+}
+
+.bienvenidos {
+    width: 75%;
+    padding-right: 10px;
+    box-sizing: border-box;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+.testimonios {
+    width: 25%;
+}
+
+.columnas {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bienvenidos p {
+    ont-size: 20px;
+
+}
+
+p {
+    font-size: x-large;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+form {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Hind', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+
+}

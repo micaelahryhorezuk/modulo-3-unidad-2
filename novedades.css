@@ -1,0 +1,25 @@
+nav ul li a.activo {
+    background-color: blueviolet;
+    }
+    h1{
+        font-size: x-large;
+    
+    }
+    h2{
+        font-family: "Montserrat", sans-serif;
+        font-size: x-large;
+    }
+    /* p{
+        font-family: "Montserrat", sans-serif;
+        font-size: 100%;
+        line-height: 1.6;
+        margin: 0px 0px 30px;
+} */
+p{
+    font:20px, oswald, sans-serif;
+    font-size: 150%;
+    line-height: 1.6;
+    margin: 0px 0px 30px;
+}
+
+

@@ -1,0 +1,19 @@
+nav ul li a.activo {
+    background-color: blueviolet;
+
+}
+
+.kits {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1em;
+}
+
+.kit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}

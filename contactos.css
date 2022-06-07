@@ -1,0 +1,10 @@
+nav ul li a.activo {
+    background-color: blueviolet;
+}
+a {
+    text-decoration: none !important;
+    color: blueviolet;
+}
+i {
+    color: blueviolet;
+}
